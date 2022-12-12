@@ -1,0 +1,19 @@
+{
+  "name": "apirest-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanskDev/ApiREST-JavaScript.git"
+  },
+  "author": "JuanSk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuanskDev/ApiREST-JavaScript/issues"
+  },
+  "homepage": "https://github.com/JuanskDev/ApiREST-JavaScript#readme"
+}
